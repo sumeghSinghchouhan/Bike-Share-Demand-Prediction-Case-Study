@@ -1,5 +1,3 @@
-# Bike-Share-Demand-Prediction-Case-Study
-Bike-Share-Demand-Prediction-Case-Study
 # Project Name : Bike Sharing Case Study
 
 BoomBikes is a bike-sharing company in the US that allows users to rent bikes for short-term use.
